@@ -1,0 +1,64 @@
+body{
+background-color: yellowgreen;
+scroll-behavior: smooth;
+}
+h1{
+text-align: center;
+}
+#button1{
+height: 100px;
+width: 250px;
+background-color: chocolate;
+}
+#add-suggestion-button{
+height: 100px;
+width: 250px;
+background-color: darkred;
+}
+#button2{
+height:100px;
+width: 250px;
+background-color: cornflowerblue;
+}
+
+#div1{
+color:indigo;
+}
+#div2{
+    color: indigo;
+    }
+#div3{
+color: indigo;
+}
+ #div4{
+ color: indigo;
+}
+#div5{
+color: indigo;
+}
+#suggest{
+text-align: right;
+}
+#dov1{
+text-align: right;
+}
+#dov2{
+text-align: right;
+}
+#dov3{
+text-align: right;
+}
+#dov4{
+text-align: right;
+}
+#dov5{
+text-align: right;
+}
+#yep{
+height: 100px;
+width: 100px;
+}
+#input1{
+height: 100px;
+width: 200px;
+}
